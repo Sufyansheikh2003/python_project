@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <food_name>Biryani</food_name>
+    <prices>260</prices>
+    <category>Desi</category>
+    <main_ingredient>Rice</main_ingredient>
+    <quantity>1</quantity>
+    <status>available</status>
+    <country>Pakistan</country>
+    <sale_price>200</sale_price>
+  </row>
+  <row>
+    <index>1</index>
+    <food_name>Zinger</food_name>
+    <prices>280</prices>
+    <category>Fast Food</category>
+    <main_ingredient>Chicken Fillet</main_ingredient>
+    <quantity>2</quantity>
+    <status>available</status>
+    <country>United States</country>
+    <sale_price>150</sale_price>
+  </row>
+  <row>
+    <index>2</index>
+    <food_name>Nihari</food_name>
+    <prices>400</prices>
+    <category>Desi</category>
+    <main_ingredient>Mutton</main_ingredient>
+    <quantity>5</quantity>
+    <status>not available</status>
+    <country>Pakistan</country>
+    <sale_price>300</sale_price>
+  </row>
+  <row>
+    <index>3</index>
+    <food_name>Pizza</food_name>
+    <prices>500</prices>
+    <category>Italian</category>
+    <main_ingredient>Flour Dough</main_ingredient>
+    <quantity>6</quantity>
+    <status>available</status>
+    <country>Italy</country>
+    <sale_price>400</sale_price>
+  </row>
+  <row>
+    <index>4</index>
+    <food_name>Pulao</food_name>
+    <prices>150</prices>
+    <category>Desi</category>
+    <main_ingredient>Rice</main_ingredient>
+    <quantity>7</quantity>
+    <status>available</status>
+    <country>Pakistan</country>
+    <sale_price>100</sale_price>
+  </row>
+  <row>
+    <index>5</index>
+    <food_name>Shawarma</food_name>
+    <prices>600</prices>
+    <category>Fast Food</category>
+    <main_ingredient>Marinated Meat</main_ingredient>
+    <quantity>9</quantity>
+    <status>not available</status>
+    <country>United States</country>
+    <sale_price>500</sale_price>
+  </row>
+</data>
